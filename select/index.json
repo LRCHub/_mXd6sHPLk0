@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "茜",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-21T01:15:17.967021Z",
+  "createdAt": "2026-03-26T19:06:40.454462Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -73,8 +73,8 @@
       "source": "lrclib",
       "title": "茜",
       "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/09_茜_ヨルシカ.lrc"
+      "has_synced": false,
+      "path": "select/09_茜_ヨルシカ.txt"
     },
     {
       "id": "lrclib_10",
@@ -95,10 +95,18 @@
     {
       "id": "lrclib_12",
       "source": "lrclib",
+      "title": "茜",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/12_茜_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
       "title": "茜 - Madder",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/12_茜_-_Madder_ヨルシカ.lrc"
+      "path": "select/13_茜_-_Madder_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -107,6 +115,15 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_茜_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "茜",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_茜_ヨルシカ.lrc",
+      "repo_name": "_mXd6sHPLk0"
     }
   ]
 }
